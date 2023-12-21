@@ -1,0 +1,1 @@
+# Hugo2JsonExtractor
